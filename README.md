@@ -1,1 +1,1 @@
-# A-Study-Of-Recommender-Systems
+# Study of Recommender Systems
